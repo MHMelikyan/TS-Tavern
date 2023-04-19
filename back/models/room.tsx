@@ -1,3 +1,4 @@
+export{}
 const mongoose = require('mongoose')
 
 let roomSchema = new mongoose.Schema({

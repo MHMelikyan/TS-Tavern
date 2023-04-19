@@ -18,11 +18,12 @@ import QuestBoard from './Components/QuestBoard';
 import NewEmployeeForm from './Components/NewEmployeeForm';
 import NewEditForm from './Components/NewEditForm'
 import './App.css';
+import React from 'react';
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
   integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-  crossorigin="anonymous"
+  crossOrigin="anonymous"
 />
 
 

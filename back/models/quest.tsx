@@ -1,3 +1,4 @@
+export{}
 const mongoose = require('mongoose')
 
 let questSchema = new mongoose.Schema({

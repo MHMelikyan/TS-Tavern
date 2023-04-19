@@ -1,5 +1,5 @@
 const router = require('express').Router()
-const db= require('../models')
+import db from '../models'
 const drink = require('../models/drink')
 
 //Show all drinks

@@ -1,3 +1,4 @@
+export{}
 const mongoose = require('mongoose')
 
 let equipmentSchema = new mongoose.Schema({
