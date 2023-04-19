@@ -116,7 +116,7 @@ function Employees() {
                     <ButtonGroup variant='secondary'>
                         <Button onClick={() => {
                             setSelectedEmployee(employee._id)
-                            handleEditShow(true);
+                            handleEditShow();
                         }} variant="success">Edit</Button>
                         <Button onClick={() => deleteEmployee(employee._id)} variant="danger">Delete</Button>
                     </ButtonGroup>
