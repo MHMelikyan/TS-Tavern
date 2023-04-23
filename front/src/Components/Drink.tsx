@@ -1,4 +1,4 @@
-export{}
+
 import React, { useEffect, useState, } from "react";
 import Button from 'react-bootstrap/Button';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
@@ -39,6 +39,7 @@ function Drink() {
     
     let drinkList = drinkData.map((drink, index) => {
         return (
+            
             <Card className='drink-card' key={index} style={{ width: '18rem'}}>
             
                 <Card.Body>

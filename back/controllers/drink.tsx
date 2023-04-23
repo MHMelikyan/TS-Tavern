@@ -1,5 +1,6 @@
+export{}
 const router = require('express').Router()
-import db from '../models'
+//import db from '../models'
 const drink = require('../models/drink')
 
 //Show all drinks

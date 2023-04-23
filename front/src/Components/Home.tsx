@@ -1,3 +1,4 @@
+
 import Card from 'react-bootstrap/Card'
 import '../App.css'
 function Home () {
@@ -6,6 +7,7 @@ function Home () {
             //<h1>The Tavern</h1>
             //<img src='https://gamesartist.co.uk/wp-content/uploads/2021/03/Figure-1-2000x978.png' alt="tavern" />
        // </div>
+       import{}
          <Card className="bg-dark text-white">
          <Card.Img src='https://gamesartist.co.uk/wp-content/uploads/2021/03/Figure-1-2000x978.png' alt="tavern" />
          <Card.ImgOverlay>

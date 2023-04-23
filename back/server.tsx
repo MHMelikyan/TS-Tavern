@@ -1,3 +1,4 @@
+export{}
 //Modules and Globals
 require('dotenv').config()
 const bodyParser = require('body-parser')

@@ -59,6 +59,7 @@ function App() {
         </Navbar>
 
         <div className='display'>
+          
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/employees' element={<Employees />} />
